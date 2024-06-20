@@ -1,6 +1,6 @@
 <template>
     <div class="hello">
-    <h3>Aqui as rotas conforme solicitado no projeto.</h3>
+    <h3>Aqui as rotas conforme solicitado no projeto, no entanto repetições indesejaveis.</h3>
       <ul>
         <li><router-link to="/">Principal</router-link></li>
         <li><router-link to="/menu" rel="noopener">Menu</router-link></li>
